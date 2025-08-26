@@ -66,26 +66,26 @@ express-crud-learning/
 
    *(Or `node index.js` if you haven’t defined a start script.)*
 
-4. **Open your browser**
+4. Open your browser
    Navigate to `http://localhost:8080`
 
 ---
 
 ## Usage
 
-* **Create a post**: Navigate to `/posts/new`, fill out and submit the form.
-* **View posts**: `/posts` shows a list of all posts.
-* **Edit a post**: Click “Edit” on a post—this takes you to `/posts/:id/edit`.
-* *(Future)* **Delete a post**: Add delete functionality using method-override.
+* Create a post: Navigate to `/posts/new`, fill out and submit the form.
+* View posts: `/posts` shows a list of all posts.
+* Edit a post: Click “Edit” on a post—this takes you to `/posts/:id/edit`.
+* (Future) Delete a post: Add delete functionality using method-override.
 
 ---
 
 ## Future Improvements
 
-* Add **delete** functionality using `DELETE` via method-override
-* Use a real **database** (like MongoDB or PostgreSQL) instead of in-memory array
-* Add **user authentication** (login/logout)
-* Enhance UI with CSS or frameworks like **Bootstrap** or **Tailwind**
+* Add delete functionality using `DELETE` via method-override
+* Use a real database (like MongoDB or PostgreSQL) instead of in-memory array
+* Add user authentication (login/logout)
+* Enhance UI with CSS or frameworks like Bootstrap or Tailwind
 
 ---
 
