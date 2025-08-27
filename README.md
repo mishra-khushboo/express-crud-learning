@@ -10,7 +10,7 @@ A simple learning project: a blog-style CRUD (Create, Read, Update, Delete) app 
 - View all posts
 - View individual post details
 - Edit posts
-- (Optional future) Delete posts
+- Delete posts
 - Uses **UUID** for unique IDs
 - Implements **PATCH** request via `method-override`
 
@@ -82,7 +82,6 @@ express-crud-learning/
 
 ## Future Improvements
 
-* Add delete functionality using `DELETE` via method-override
 * Use a real database (like MongoDB or PostgreSQL) instead of in-memory array
 * Add user authentication (login/logout)
 * Enhance UI with CSS or frameworks like Bootstrap or Tailwind
